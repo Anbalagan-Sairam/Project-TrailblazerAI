@@ -9,3 +9,4 @@ pydantic
 PyPDF2
 streamlit
 requests
+pinecone

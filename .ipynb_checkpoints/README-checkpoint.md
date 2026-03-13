@@ -1,21 +1,13 @@
 Trailblaze AI v1.0
 
-The goal of project Trailblaze is to create a friendly conversational AI that helps individuals in reaching their nutrition, exercise, finance and relationship goals.
+Trailblaze AI is a conversational AI for developers purpose built for assisting ADHD individuals leverage the power of AI agents to manage their day to day activities.
 
-
-
-Access FrontEnd UI via: https://<Studio ID>.studio.us-east-1.sagemaker.aws/jupyterlab/default/proxy/8501/
-
-Process:
-1. Upload the PDF and text files inside data/
-2. Run vector_manager.py to create text embeddings and store it in vectorstore/
-3. Expose fastapi to listen to port 8000 via:
-   uvicorn app.api:app --host 0.0.0.0 --port 8000 --reload
-4. Use another tab to submit the query to obtain response:
-curl -X POST "http://localhost:8000/ask" \
-     -H "Content-Type: application/json" \
-     -d '{"query": "What is Starbucks revenue for 2025?"}'
-
-5. Open streamlit in:
-
+How to use:
+1. Clone this repo into your local machine.
+2. Get a free tier for pinecone and grab the api and set it in .env
+3. Run vector_manager.py to create text embeddings and store it in
+4. Expose fastapi to listen to port 8000 via: uvicorn app.api:app --host 0.0.0.0 --port 8000 --reload
+5. Access FrontEnd UI via: https://<Studio ID>.studio.us-east-1.sagemaker.aws/jupyterlab/default/proxy/8501/
+6. Open streamlit in:
 https://<APP_ID>.studio.us-east-1.sagemaker.aws/jupyterlab/default/proxy/8501/
+7. Chat with your AI that now has a complete information about your exercise routines, nutrition, resume, career to build motivation bridge to progress your goals.
