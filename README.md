@@ -8,6 +8,10 @@ How to use:
 3. Run vector_manager.py to create text embeddings and store it in
 4. Expose fastapi to listen to port 8000 via: uvicorn app.api:app --host 0.0.0.0 --port 8000 --reload
 5. Access FrontEnd UI via: https://<Studio ID>.studio.us-east-1.sagemaker.aws/jupyterlab/default/proxy/8501/
-6. Open streamlit in:
+6. Run streamlit run frontend.py in 2nd terminal
+7. Open streamlit in:
 https://<APP_ID>.studio.us-east-1.sagemaker.aws/jupyterlab/default/proxy/8501/
-7. Chat with your AI that now has a complete information about your exercise routines, nutrition, resume, career to build motivation bridge to progress your goals.
+8. Chat with your AI that now has a complete information about your exercise routines, nutrition, resume, career to build motivation bridge to progress your goals.
+
+13/03/2026:
+Document Ingestion: Using Pinecone is such a hassle because of encoding format mismatch, langchain wrapper solves it much easier.
