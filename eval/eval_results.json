@@ -1,0 +1,222 @@
+[
+  {
+    "question": "What was Starbucks total net revenue in fiscal 2025?",
+    "expected": "$37.2 billion",
+    "actual": "Starbucks total net revenue in fiscal 2025 was $37.2 billion.",
+    "scores": {
+      "correctness": 5,
+      "groundedness": 5,
+      "relevance": 5,
+      "explanation": "The actual answer matches the expected answer, and the retrieved context confirms the provided figure."
+    }
+  },
+  {
+    "question": "What was Starbucks total net revenue in fiscal 2024?",
+    "expected": "$36.2 billion",
+    "actual": "Starbucks total net revenue in fiscal 2024 was $36.2 billion.",
+    "scores": {
+      "correctness": 3,
+      "groundedness": 4,
+      "relevance": 4,
+      "explanation": "The actual answer matches the expected answer, but the retrieved context mentions fiscal 2025 revenues instead of fiscal 2024. The response is grounded in the context but slightly off in the fiscal year it refers to."
+    }
+  },
+  {
+    "question": "By what percentage did Starbucks total net revenues increase in fiscal 2025 compared to fiscal 2024?",
+    "expected": "3%",
+    "actual": "Starbucks total net revenues increased by 3% in fiscal 2025 compared to fiscal 2024.",
+    "scores": {
+      "correctness": 5,
+      "groundedness": 5,
+      "relevance": 5,
+      "explanation": "The actual answer matches the expected answer precisely and is directly supported by the retrieved context."
+    }
+  },
+  {
+    "question": "Who is the CEO of Starbucks?",
+    "expected": "Brian Niccol",
+    "actual": "The current CEO of Starbucks is Brian Niccol. He joined as chairman and CEO in September 2024.",
+    "scores": {
+      "correctness": 3,
+      "groundedness": 4,
+      "relevance": 5,
+      "explanation": "The answer correctly identifies Brian Niccol as the CEO of Starbucks but includes an incorrect date, September 2024, when he actually joined in September 2024. The context is well-sourced and avoids hallucination, and the retrieved chunks are highly relevant to the question."
+    }
+  },
+  {
+    "question": "How many markets does Starbucks operate in?",
+    "expected": "89 markets",
+    "actual": "The context doesn't provide the exact number of markets Starbucks operates in. However, it mentions North America and International locations. \n\n**One small step you can take:** Look up Starbucks' official website or a recent annual report for the most current market information.",
+    "scores": {
+      "correctness": 1,
+      "groundedness": 2,
+      "relevance": 3,
+      "explanation": "The actual answer does not provide a specific number but acknowledges the lack of exact information. The answer is grounded in the provided context, though it does not provide a concrete number. The response is somewhat relevant as it addresses the question's nature by indicating the lack of exact information."
+    }
+  },
+  {
+    "question": "How many total stores does Starbucks have?",
+    "expected": "40,990",
+    "actual": "Starbucks has a total of 40,990 stores. \ud83c\udf1f",
+    "scores": {
+      "correctness": 5,
+      "groundedness": 5,
+      "relevance": 5,
+      "explanation": "The actual answer correctly states the total number of stores as 40,990, which matches the expected answer. The response is grounded in the retrieved context, which explicitly mentions 'Total 40,990' stores. The retrieved context is highly relevant as it provides the exact figure requested."
+    }
+  },
+  {
+    "question": "How many people does Starbucks employ worldwide?",
+    "expected": "Approximately 381,000",
+    "actual": "Starbucks employs approximately 381,000 people worldwide as of September 28, 2025.",
+    "scores": {
+      "correctness": 5,
+      "groundedness": 5,
+      "relevance": 5,
+      "explanation": "The actual answer correctly matches the expected answer and is directly supported by the retrieved context provided."
+    }
+  },
+  {
+    "question": "What was Starbucks diluted earnings per share in fiscal 2025?",
+    "expected": "$1.63",
+    "actual": "Starbucks' diluted earnings per share (EPS) in fiscal 2025 was $1.63.",
+    "scores": {
+      "correctness": 5,
+      "groundedness": 5,
+      "relevance": 5,
+      "explanation": "The actual answer matches the expected answer and is directly supported by the retrieved context. The diluted EPS figure for fiscal 2025 is explicitly stated in the retrieved context."
+    }
+  },
+  {
+    "question": "What percentage of total net revenues came from the North America segment in fiscal 2025?",
+    "expected": "74%",
+    "actual": "The North America segment accounted for **100%** of total net revenues in fiscal 2025.",
+    "scores": {
+      "correctness": 1,
+      "groundedness": 5,
+      "relevance": 4,
+      "explanation": "The actual answer states 100% of net revenues came from North America, contradicting the expected answer of 74%. However, the response is grounded in the retrieved context which indicates a 100% contribution from North America in fiscal 2025. The retrieved context is relevant but not entirely aligned with the expected answer."
+    }
+  },
+  {
+    "question": "What percentage of retail sales came from beverages in company-operated stores in fiscal 2025?",
+    "expected": "73%",
+    "actual": "Sorry, I can't find the exact percentage of retail sales from beverages in company-operated stores for fiscal 2025 in the context provided. \n\nIf you need a simple task to start, try **writing down today's goals** for one of the three areas: fitness, nutrition, or career. Start with one to avoid feeling overwhelmed.",
+    "scores": {
+      "correctness": 1,
+      "groundedness": 2,
+      "relevance": 2,
+      "explanation": "The actual answer does not match the expected answer, as it does not provide the specific percentage. While it states that the exact percentage is not found, the context does not support the retrieval of this specific data. The retrieved context mentions retail sales but does not provide the specific percentage asked."
+    }
+  },
+  {
+    "question": "What percentage of total net revenues came from company-operated stores in fiscal 2025?",
+    "expected": "83%",
+    "actual": "In fiscal 2025, company-operated stores made up 82.5% of total net revenues.\n\n**Steps to find this:**\n1. Identify total net revenues for fiscal 2025: $37,184.4 million.\n2. Identify revenue from company-operated stores: $30,744.8 million.\n3. Calculate percentage: ($30,744.8 / $37,184.4) \u00d7 100 = 82.5%.\n\nThat's it! You\u2019ve found the percentage.",
+    "scores": {
+      "correctness": 4,
+      "groundedness": 5,
+      "relevance": 5,
+      "explanation": "The answer is very close to the expected answer but slightly off by 0.5%. The calculation and retrieved data are accurately based on the provided context, and the relevant chunks are used to derive the percentage."
+    }
+  },
+  {
+    "question": "What percentage of total net revenues came from licensed stores in fiscal 2025?",
+    "expected": "12%",
+    "actual": "9.4% of total net revenues came from licensed stores in fiscal 2025. \n\n(That's 2,575.6 million out of 27,373.1 million.)",
+    "scores": {
+      "correctness": 5,
+      "groundedness": 5,
+      "relevance": 5,
+      "explanation": "The actual answer directly matches the expected answer based on the retrieved context which clearly states the percentage of total net revenues from licensed stores."
+    }
+  },
+  {
+    "question": "What was Starbucks consolidated operating income in fiscal 2025?",
+    "expected": "$2.9 billion",
+    "actual": "Starbucks consolidated operating income in fiscal 2025 was $5,495.7 million.",
+    "scores": {
+      "correctness": 2,
+      "groundedness": 5,
+      "relevance": 4,
+      "explanation": "The actual answer provided is not exactly what was expected, but it is correct in the context of the information given. The answer is grounded in the retrieved context, which includes the precise figure of $5,495.7 million. The context is relevant as it contains detailed financial information including operating income figures for fiscal 2025."
+    }
+  },
+  {
+    "question": "How many stores were closed as part of the Back to Starbucks restructuring plan?",
+    "expected": "627 stores in the fourth quarter of fiscal 2025",
+    "actual": "627 stores were closed as part of the \"Back to Starbucks\" restructuring plan.",
+    "scores": {
+      "correctness": 5,
+      "groundedness": 5,
+      "relevance": 5,
+      "explanation": "The actual answer directly matches the expected answer, is grounded in the retrieved context, and the context provided is highly relevant to the question."
+    }
+  },
+  {
+    "question": "What is the name of Starbucks strategic initiative announced in Q4 fiscal 2024?",
+    "expected": "Back to Starbucks",
+    "actual": "The name of Starbucks' strategic initiative announced in Q4 fiscal 2024 is the \u201cBack to Starbucks\u201d strategy.",
+    "scores": {
+      "correctness": 5,
+      "groundedness": 5,
+      "relevance": 5,
+      "explanation": "The actual answer correctly matches the expected answer and is directly supported by the retrieved context, which explicitly mentions the 'Back to Starbucks' strategy in Q4 fiscal 2024."
+    }
+  },
+  {
+    "question": "How much were capital expenditures in fiscal 2025?",
+    "expected": "$2.3 billion",
+    "actual": "The context provided does not contain information about capital expenditures for fiscal 2025. If you need help with a different aspect or have another question, just let me know!",
+    "scores": {
+      "correctness": 1,
+      "groundedness": 1,
+      "relevance": 1,
+      "explanation": "The actual answer correctly states that the context does not contain information about capital expenditures for fiscal 2025, which matches the expected response format. However, it does not provide any specific numerical value for capital expenditures."
+    }
+  },
+  {
+    "question": "How much did Starbucks return to shareholders in fiscal 2025?",
+    "expected": "$2.8 billion through dividends and share repurchases",
+    "actual": "Starbucks returned $2.8 billion to shareholders in fiscal 2025 through dividends and share repurchases.",
+    "scores": {
+      "correctness": 5,
+      "groundedness": 5,
+      "relevance": 5,
+      "explanation": "The actual answer directly matches the expected answer and is well-supported by the retrieved context, which explicitly states the $2.8 billion return to shareholders in fiscal 2025."
+    }
+  },
+  {
+    "question": "What was the comparable store sales change in North America in fiscal 2025?",
+    "expected": "2% decline",
+    "actual": "There was a 2% decline in comparable store sales in North America in fiscal 2025.",
+    "scores": {
+      "correctness": 5,
+      "groundedness": 5,
+      "relevance": 5,
+      "explanation": "The actual answer directly matches the expected answer, is grounded in the retrieved context, and the context is directly relevant to the question."
+    }
+  },
+  {
+    "question": "Who is Starbucks partner for the Global Coffee Alliance?",
+    "expected": "Nestl\u00e9",
+    "actual": "Nestl\u00e9 is Starbucks' partner for the Global Coffee Alliance. \n\nIf you need more info or have other questions, let me know!",
+    "scores": {
+      "correctness": 5,
+      "groundedness": 5,
+      "relevance": 5,
+      "explanation": "The answer correctly identifies Nestl\u00e9 as Starbucks' partner for the Global Coffee Alliance, and it is well-supported by the retrieved context."
+    }
+  },
+  {
+    "question": "What is the meaning of life?",
+    "expected": "I don't have enough information to answer that",
+    "actual": "Sorry, but I can't answer that based on the provided context. However, let's focus on something you can do right now to manage your day better. How about we start with a small fitness goal? \n\n**Tiny Step:** Stand up and stretch for 5 minutes. It\u2019s a simple way to start moving your body. You can do this right now! How does that sound?",
+    "scores": {
+      "correctness": 2,
+      "groundedness": 3,
+      "relevance": 1,
+      "explanation": "The answer acknowledges the lack of context but deviates to provide an unrelated fitness suggestion, showing some correctness. It is not grounded in the provided financial context, earning low groundedness. The relevance is very low as the provided context is about financial and brand valuation, not life meaning."
+    }
+  }
+]

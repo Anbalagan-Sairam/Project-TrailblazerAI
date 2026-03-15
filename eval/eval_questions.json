@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What was Starbucks total net revenue in fiscal 2025?",
+        "expected_answer": "$37.2 billion",
+        "topic": "revenue"
+    },
+    {
+        "question": "What was Starbucks total net revenue in fiscal 2024?",
+        "expected_answer": "$36.2 billion",
+        "topic": "revenue"
+    },
+    {
+        "question": "By what percentage did Starbucks total net revenues increase in fiscal 2025 compared to fiscal 2024?",
+        "expected_answer": "3%",
+        "topic": "revenue"
+    },
+    {
+        "question": "Who is the CEO of Starbucks?",
+        "expected_answer": "Brian Niccol",
+        "topic": "leadership"
+    },
+    {
+        "question": "How many markets does Starbucks operate in?",
+        "expected_answer": "89 markets",
+        "topic": "operations"
+    },
+    {
+        "question": "How many total stores does Starbucks have?",
+        "expected_answer": "40,990",
+        "topic": "operations"
+    },
+    {
+        "question": "How many people does Starbucks employ worldwide?",
+        "expected_answer": "Approximately 381,000",
+        "topic": "employees"
+    },
+    {
+        "question": "What was Starbucks diluted earnings per share in fiscal 2025?",
+        "expected_answer": "$1.63",
+        "topic": "financials"
+    },
+    {
+        "question": "What percentage of total net revenues came from the North America segment in fiscal 2025?",
+        "expected_answer": "74%",
+        "topic": "segments"
+    },
+    {
+        "question": "What percentage of retail sales came from beverages in company-operated stores in fiscal 2025?",
+        "expected_answer": "73%",
+        "topic": "product_mix"
+    },
+    {
+        "question": "What percentage of total net revenues came from company-operated stores in fiscal 2025?",
+        "expected_answer": "83%",
+        "topic": "revenue"
+    },
+    {
+        "question": "What percentage of total net revenues came from licensed stores in fiscal 2025?",
+        "expected_answer": "12%",
+        "topic": "revenue"
+    },
+    {
+        "question": "What was Starbucks consolidated operating income in fiscal 2025?",
+        "expected_answer": "$2.9 billion",
+        "topic": "financials"
+    },
+    {
+        "question": "How many stores were closed as part of the Back to Starbucks restructuring plan?",
+        "expected_answer": "627 stores in the fourth quarter of fiscal 2025",
+        "topic": "restructuring"
+    },
+    {
+        "question": "What is the name of Starbucks strategic initiative announced in Q4 fiscal 2024?",
+        "expected_answer": "Back to Starbucks",
+        "topic": "strategy"
+    },
+    {
+        "question": "How much were capital expenditures in fiscal 2025?",
+        "expected_answer": "$2.3 billion",
+        "topic": "financials"
+    },
+    {
+        "question": "How much did Starbucks return to shareholders in fiscal 2025?",
+        "expected_answer": "$2.8 billion through dividends and share repurchases",
+        "topic": "financials"
+    },
+    {
+        "question": "What was the comparable store sales change in North America in fiscal 2025?",
+        "expected_answer": "2% decline",
+        "topic": "operations"
+    },
+    {
+        "question": "Who is Starbucks partner for the Global Coffee Alliance?",
+        "expected_answer": "Nestlé",
+        "topic": "partnerships"
+    },
+    {
+        "question": "What is the meaning of life?",
+        "expected_answer": "I don't have enough information to answer that",
+        "topic": "off-topic"
+    }
+]

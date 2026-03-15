@@ -10,3 +10,7 @@ PyPDF2
 streamlit
 requests
 langchain_pinecone
+rapidfuzz
+pandas
+boto3
+python-dotenv

@@ -1,0 +1,12 @@
+[
+    {"id": "SDN001", "name": "Mohammad Al-Rahman", "country": "Iran", "program": "OFAC-SDN"},
+    {"id": "SDN002", "name": "Viktor Petrov", "country": "Russia", "program": "OFAC-SDN"},
+    {"id": "SDN003", "name": "Kim Jong Suk", "country": "North Korea", "program": "UN-Sanctions"},
+    {"id": "SDN004", "name": "Omar Hassan Abdullah", "country": "Syria", "program": "EU-Sanctions"},
+    {"id": "SDN005", "name": "Alexei Volkov", "country": "Russia", "program": "OFAC-SDN"},
+    {"id": "SDN006", "name": "Chen Wei Li", "country": "China", "program": "OFAC-SDN"},
+    {"id": "SDN007", "name": "Abdul Rashid Khan", "country": "Pakistan", "program": "UN-Sanctions"},
+    {"id": "SDN008", "name": "Dmitri Sokolov", "country": "Russia", "program": "EU-Sanctions"},
+    {"id": "SDN009", "name": "Hassan Nasrallah", "country": "Lebanon", "program": "OFAC-SDN"},
+    {"id": "SDN010", "name": "Yusuf Ibrahim Mohamed", "country": "Somalia", "program": "UN-Sanctions"}
+]
