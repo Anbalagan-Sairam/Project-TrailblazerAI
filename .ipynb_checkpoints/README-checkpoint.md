@@ -12,7 +12,9 @@ The system currently supports two knowledge domains out of the box:
 
 **Business Intelligence** — ingests structured documents like annual reports (Starbucks performance data is included). Ask financial and strategic questions like "what was revenue in 2023" or "which segment performed best" and it pulls the exact context.
 
-Both domains live in the same Pinecone vector store, tagged with metadata so retrieval stays accurate across knowledge bases.
+**Nutrition** — ingests the Irish food pyramid and dietary guidelines. Ask questions like "how many servings of vegetables should I eat daily" or "what foods give me sustained energy for focus" and it returns evidence-based nutritional guidance tailored to your goals.
+
+All domains live in the same Pinecone vector store, tagged with metadata so retrieval stays accurate across knowledge bases.
 
 ---
 
